@@ -10,8 +10,6 @@ Currently, I’m strengthening my skills in Python 🐍, test automation 🤖, A
 My goal is to grow from a Junior QA Engineer into a strong QA Automation / QA  🚀
 <br/>
 <br/>
-
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
   
 
 <br>
