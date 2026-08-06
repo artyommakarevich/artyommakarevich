@@ -1,16 +1,20 @@
-
-## Hey 👋, I'm Artyom Makarevich! Let  me find some <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Beetle.png" alt="Beetle" width="25" height="25" />
-
-I am a QA Engineer focused on software quality, test automation, and continuous learning. 🧪
-
-I enjoy exploring how software works under the hood — from finding bugs and analyzing requirements to writing automated tests and understanding application architecture. 🔍
-
-Currently, I’m strengthening my skills in Python 🐍, test automation 🤖, API testing 🌐, and software engineering practices. I love experimenting with new tools and technologies and turning what I learn into real projects. 🛠️
-
-My goal is to grow from a Junior QA Engineer into a strong QA Automation / QA  🚀
-<br/>
-<br/>
-  
+<h2>Hey 👋, I'm Artyom Makarevich! Let me find some <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Beetle.png" alt="Beetle" width="25" height="25" /></h2>
+<h2>📌 A Few Quick Facts</h2>
+<table border="0">
+  <tr>
+    <td valign="top" width="60%">
+      <ul>
+        <li>I am a QA Engineer focused on software quality, test automation, and continuous learning. 🧪</li>
+        <li>I enjoy exploring how software works under the hood — from finding bugs and analyzing requirements to writing automated tests and understanding application architecture. 🔍</li>
+        <li>Currently, I’m strengthening my skills in Python 🐍, test automation 🤖, API testing 🌐, and software engineering practices. I love experimenting with new tools and technologies and turning what I learn into real projects. 🛠️</li>
+        <li>My goal is to grow from a Junior QA Engineer into a strong QA Automation / QA 🚀</li>
+      </ul>
+    </td>
+    <td valign="top" width="40%" align="right">
+      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXJ3eWVwbWd1c2h6aGtoYjEzN3hkd3Y0b29ybmp5MGZubHU1aHViaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f1q91PBQLmyRy/giphy.gif" alt="Fun gif" width="100%" style="border-radius: 12px;" />
+    </td>
+  </tr>
+</table>
 
 <br>
 
