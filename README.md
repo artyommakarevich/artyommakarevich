@@ -32,4 +32,5 @@
 <br>
 
 ### 🛠️ My Projects
-I will soon add projects here.
+<a href = "https://github.com/artyommakarevich/e-commerce-independent-qa-testing.git"> E-commerce QA Testing </a> - Independent QA testing project for a large-scale e-commerce web application.
+
