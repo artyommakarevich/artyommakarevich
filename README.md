@@ -4,10 +4,10 @@
   <tr>
     <td valign="top" width="60%">
       <ul>
-        <li>I am a QA Engineer focused on software quality, test automation, and continuous learning. 🧪</li>
-        <li>I enjoy exploring how software works under the hood — from finding bugs and analyzing requirements to writing automated tests and understanding application architecture. 🔍</li>
+        <li>I am a QA Engineer focused on software quality, test automation, and continuous learning. </li>
+        <li>I enjoy exploring how software works under the hood — from finding bugs and analyzing requirements to writing automated tests and understanding application architecture. </li>
         <li>Currently, I’m strengthening my skills in Python 🐍, test automation 🤖, API testing 🌐, and software engineering practices. I love experimenting with new tools and technologies and turning what I learn into real projects. 🛠️</li>
-        <li>My goal is to grow from a Junior QA Engineer into a strong QA Automation / QA 🚀</li>
+        <li>My goal is to grow from a Junior QA Engineer into a strong QA Automation / QA </li>
       </ul>
     </td>
     <td valign="top" width="40%" align="right">
