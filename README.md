@@ -1,4 +1,4 @@
-<h2>Hey 👋, I'm Artyom Makarevich! Let me find some <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Beetle.png" alt="Beetle" width="25" height="25" /></h2>
+<h2> I'm Artyom Makarevich👋. Let me find some <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Beetle.png" alt="Beetle" width="25" height="25" /></h2>
 <h2>📌 A Few Quick Facts</h2>
 <table border="0">
   <tr>
